@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Abbos Qosim",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.13.1",
+    "node-telegram-bot-api": "^0.40.0",
+    "open-graph-scraper": "^3.6.2"
+  },
+  "engines": {
+    "node": "10.15.2"
+  }
+}
